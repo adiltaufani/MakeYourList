@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762342491858",
+    "firebase_url": "https://signup-login-tubes-permob-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "signup-login-tubes-permob",
+    "storage_bucket": "signup-login-tubes-permob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762342491858:android:6c64d276974ac67672cf0b",
+        "android_client_info": {
+          "package_name": "com.example.signuplogintubes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762342491858-k0k718vbqic453b0cttm3qgtfqfkk34c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuJlS1mOw1xs0i4b4AKVwu51rizF-6dvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762342491858-k0k718vbqic453b0cttm3qgtfqfkk34c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
